@@ -1,0 +1,45 @@
+Report
+
+Comparison of K-Means and E-M Algorithm (Gaussian Mixture Model)
+
+Datasets:
+1. Blobs
+-----
+
+K-Means Clusters:
+[0 1 2]
+
+E-M Clusters:
+[0 1 2]
+
+==================================================
+2. Anisotropic Blobs
+-----------------
+
+K-Means Clusters:
+[0 1 2]
+
+E-M Clusters:
+[0 1 2]
+
+==================================================
+3. Unequal Variance
+----------------
+
+K-Means Clusters:
+[0 1 2]
+
+E-M Clusters:
+[0 1 2]
+
+==================================================
+4. Unevenly Sized Blobs
+--------------------
+
+K-Means Clusters:
+[0 1 2]
+
+E-M Clusters:
+[0 1 2]
+
+==================================================
