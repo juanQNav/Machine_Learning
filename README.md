@@ -49,6 +49,6 @@ pip install numpy pandas matplotlib scikit-learn tensorflow keras
 # Usage
 To explore the files, you can clone this repository with:
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/juanQNav/Machine_Learning.git
 ```
 
